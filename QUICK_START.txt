@@ -1,0 +1,92 @@
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                                                          ║
+║                 📱 GET APK FOR YOUR PHONE - 5 MINUTES                    ║
+║                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════╝
+
+
+🎯 FASTEST WAY - Use Android Studio:
+═══════════════════════════════════════════════════════════════════════════
+
+   1. Open Android Studio
+
+   2. File → Open → Select "Travel.ai" folder → OK
+
+   3. Wait 2 minutes (Gradle sync)
+
+   4. Build → Build APK(s)  [or press Ctrl+Shift+F9]
+
+   5. Wait 2-3 minutes
+
+   6. Click "locate" when build finishes
+
+   7. Copy app-debug.apk to your phone
+
+   8. Install on phone!
+
+
+📁 APK Location After Build:
+═══════════════════════════════════════════════════════════════════════════
+
+   C:\Users\Public\Desktop\Travel.ai\app\build\outputs\apk\debug\app-debug.apk
+
+
+📲 How to Install on Phone:
+═══════════════════════════════════════════════════════════════════════════
+
+   • Copy APK to phone (USB cable / Google Drive / Bluetooth)
+   • Open APK file on phone
+   • Allow "Install from unknown sources" (Settings → Security)
+   • Click Install
+   • Click Open
+   • Done! 🎉
+
+
+⚡ Alternative - Command Line:
+═══════════════════════════════════════════════════════════════════════════
+
+   Open PowerShell and run:
+
+   cd "C:\Users\Public\Desktop\Travel.ai"
+   .\BUILD_APK.ps1
+
+
+✅ What Works in App (No Backend Needed):
+═══════════════════════════════════════════════════════════════════════════
+
+   ✓ Live weather for your city
+   ✓ Find restaurants, hotels, ATMs nearby (12 categories!)
+   ✓ Map with place search & routing
+   ✓ Delhi Metro routes (112 stations, works offline!)
+   ✓ Trip budget calculator with real distances
+   ✓ Change city, temp unit (°C/°F), language (English/Hindi)
+
+   ✗ Bus search (needs backend server - coming soon)
+
+
+🆘 Problems?
+═══════════════════════════════════════════════════════════════════════════
+
+   Build failing → Use Android Studio method (most reliable)
+   Laptop too slow → Build on friend's PC (only need to build ONCE!)
+   Can't install on phone → Enable "Unknown sources" in Settings
+
+
+📖 Detailed Guides Available:
+═══════════════════════════════════════════════════════════════════════════
+
+   • HOW_TO_GET_APK.md          (Step-by-step with pictures)
+   • BUILD_APK_INSTRUCTIONS.md  (All methods explained)
+   • BUILD_APK.ps1              (Automated build script)
+
+
+═══════════════════════════════════════════════════════════════════════════
+
+Need help? Tell me:
+  1. Which method you tried
+  2. What error you got
+  3. Screenshot if possible
+
+I'll help you get it working! 🚀
+
+═══════════════════════════════════════════════════════════════════════════

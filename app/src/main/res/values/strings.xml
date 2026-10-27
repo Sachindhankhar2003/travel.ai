@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Travel.ai</string>
+
+    <!-- General -->
+    <string name="home">Home</string>
+    <string name="map">Map</string>
+    <string name="transit">Transit</string>
+    <string name="explore">Explore</string>
+    <string name="budget">Budget</string>
+    <string name="settings">Settings</string>
+
+    <!-- Home -->
+    <string name="home_subtitle">Your city, at a glance</string>
+    <string name="refresh">Refresh</string>
+    <string name="change_city">Change city</string>
+    <string name="quick_access">Quick Access</string>
+    <string name="hourly_forecast">Hourly Forecast</string>
+    <string name="seven_day_forecast">7-Day Forecast</string>
+    <string name="youre_offline">You\'re offline — showing cached data</string>
+
+    <!-- Weather -->
+    <string name="feels_like">Feels like %1$d°</string>
+    <string name="rain_pct">Rain %1$d%%</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind">Wind</string>
+    <string name="rain">Rain</string>
+
+    <!-- Budget -->
+    <string name="budget_planner">Budget Planner</string>
+    <string name="budget_subtitle">Plan your trip costs before you go</string>
+    <string name="from_city">From city</string>
+    <string name="destination">Destination</string>
+    <string name="travellers">Travellers</string>
+    <string name="nights">Nights</string>
+    <string name="travel_mode">Travel Mode</string>
+    <string name="room_type">Room Type</string>
+    <string name="rooms">Rooms</string>
+    <string name="daily_food_budget">Daily Food Budget</string>
+    <string name="return_trip">Return Trip</string>
+    <string name="fuel_cost_per_km">Fuel cost (₹/km)</string>
+    <string name="calculate_budget">Calculate Budget</string>
+    <string name="calculating">Calculating…</string>
+    <string name="total_trip_cost">Total Trip Cost</string>
+    <string name="per_person">per person</string>
+    <string name="save_plan">Save Plan</string>
+    <string name="transport_comparison">Transport Comparison</string>
+    <string name="expense_breakdown">Expense Breakdown</string>
+    <string name="saved_trip_plans">Saved Trip Plans</string>
+    <string name="cheapest">Cheapest</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="please_enter_cities">Please enter both cities</string>
+    <string name="plan_budget">Plan Budget</string>
+
+    <!-- Settings -->
+    <string name="home_city">Home City</string>
+    <string name="temperature_unit">Temperature Unit</string>
+    <string name="app_language">App Language</string>
+    <string name="general">General</string>
+    <string name="weather">Weather</string>
+    <string name="language">Language</string>
+    <string name="about">About</string>
+    <string name="version">Version</string>
+    <string name="built_with">Built with</string>
+    <string name="customize_experience">Customize your Travel.ai experience</string>
+
+    <!-- Onboarding -->
+    <string name="get_started">Get Started</string>
+    <string name="allow_location">Allow Location</string>
+    <string name="skip_for_now">Skip for now</string>
+    <string name="enable_location">Enable Location</string>
+    <string name="onboarding_location_desc">Travel.ai uses your location to show weather, nearest metro stations, and bus stops in real time. Your location is never stored or shared.</string>
+
+    <!-- Transit -->
+    <string name="metro_routes">Metro Routes</string>
+    <string name="bus_search">Bus Search</string>
+    <string name="government">Government</string>
+    <string name="private_label">Private</string>
+    <string name="ac">AC</string>
+    <string name="frequency">Every %1$d min</string>
+    <string name="first_bus">First: %1$s</string>
+    <string name="last_bus">Last: %1$s</string>
+
+    <!-- Errors -->
+    <string name="no_internet">No internet connection</string>
+    <string name="request_timed_out">Request timed out</string>
+    <string name="try_again">Try Again</string>
+
+    <!-- City picker -->
+    <string name="select_city">Select City</string>
+    <string name="search_cities">Search cities…</string>
+    <string name="popular_cities">Popular Cities</string>
+    <string name="all_cities">All Cities</string>
+</resources>

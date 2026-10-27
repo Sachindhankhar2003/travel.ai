@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Placeholder splash icon - replace with actual vector drawable -->
+    <drawable name="ic_splash_icon">@android:drawable/ic_menu_compass</drawable>
+</resources>

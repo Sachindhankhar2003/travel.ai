@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Pin body (purple) -->
+    <path
+        android:fillColor="#7C5CFC"
+        android:pathData="M54,16
+            C44.06,16 36,24.06 36,34
+            C36,47.25 54,68 54,68
+            C54,68 72,47.25 72,34
+            C72,24.06 63.94,16 54,16Z" />
+
+    <!-- Pin inner circle (white) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,27 A7,7 0 1,0 54.001,27Z" />
+
+    <!-- Spark / bolt top-right (orange) -->
+    <path
+        android:fillColor="#F97316"
+        android:pathData="M68,18 L64,28 L69,26 L63,38 L67,37 L61,50 L70,32 L65,34 L71,22Z" />
+
+</vector>

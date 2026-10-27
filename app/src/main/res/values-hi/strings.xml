@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Travel.ai</string>
+
+    <string name="home">होम</string>
+    <string name="map">मानचित्र</string>
+    <string name="transit">परिवहन</string>
+    <string name="explore">अन्वेषण</string>
+    <string name="budget">बजट</string>
+    <string name="settings">सेटिंग्स</string>
+
+    <string name="home_subtitle">आपका शहर, एक नज़र में</string>
+    <string name="refresh">रिफ्रेश</string>
+    <string name="change_city">शहर बदलें</string>
+    <string name="quick_access">त्वरित पहुँच</string>
+    <string name="hourly_forecast">प्रति घंटा पूर्वानुमान</string>
+    <string name="seven_day_forecast">7 दिन का पूर्वानुमान</string>
+    <string name="youre_offline">आप ऑफलाइन हैं — संचित डेटा दिखाया जा रहा है</string>
+
+    <string name="feels_like">महसूस होता है %1$d°</string>
+    <string name="rain_pct">बारिश %1$d%%</string>
+    <string name="humidity">आर्द्रता</string>
+    <string name="wind">हवा</string>
+    <string name="rain">बारिश</string>
+
+    <string name="budget_planner">बजट योजनाकार</string>
+    <string name="budget_subtitle">यात्रा से पहले खर्च की योजना बनाएं</string>
+    <string name="from_city">निकलने का शहर</string>
+    <string name="destination">गंतव्य</string>
+    <string name="travellers">यात्री</string>
+    <string name="nights">रातें</string>
+    <string name="travel_mode">यात्रा माध्यम</string>
+    <string name="room_type">कमरे का प्रकार</string>
+    <string name="rooms">कमरे</string>
+    <string name="daily_food_budget">दैनिक खाद्य बजट</string>
+    <string name="return_trip">वापसी यात्रा</string>
+    <string name="fuel_cost_per_km">ईंधन लागत (₹/किमी)</string>
+    <string name="calculate_budget">बजट की गणना करें</string>
+    <string name="calculating">गणना हो रही है…</string>
+    <string name="total_trip_cost">कुल यात्रा लागत</string>
+    <string name="per_person">प्रति व्यक्ति</string>
+    <string name="save_plan">योजना सहेजें</string>
+    <string name="transport_comparison">परिवहन तुलना</string>
+    <string name="expense_breakdown">खर्च विवरण</string>
+    <string name="saved_trip_plans">सहेजी गई यात्रा योजनाएँ</string>
+    <string name="cheapest">सबसे सस्ता</string>
+    <string name="share">साझा करें</string>
+    <string name="delete">हटाएं</string>
+    <string name="please_enter_cities">कृपया दोनों शहर दर्ज करें</string>
+    <string name="plan_budget">बजट बनाएं</string>
+
+    <string name="home_city">गृह शहर</string>
+    <string name="temperature_unit">तापमान इकाई</string>
+    <string name="app_language">ऐप भाषा</string>
+    <string name="general">सामान्य</string>
+    <string name="weather">मौसम</string>
+    <string name="language">भाषा</string>
+    <string name="about">के बारे में</string>
+    <string name="version">संस्करण</string>
+    <string name="built_with">के साथ बनाया</string>
+    <string name="customize_experience">अपना Travel.ai अनुभव कस्टमाइज़ करें</string>
+
+    <string name="get_started">शुरू करें</string>
+    <string name="allow_location">स्थान अनुमति दें</string>
+    <string name="skip_for_now">अभी के लिए छोड़ें</string>
+    <string name="enable_location">स्थान सक्षम करें</string>
+    <string name="onboarding_location_desc">Travel.ai आपके स्थान का उपयोग मौसम, निकटतम मेट्रो स्टेशन और बस स्टॉप दिखाने के लिए करता है। आपका स्थान कभी संग्रहीत या साझा नहीं किया जाता।</string>
+
+    <string name="metro_routes">मेट्रो मार्ग</string>
+    <string name="bus_search">बस खोज</string>
+    <string name="government">सरकारी</string>
+    <string name="private_label">निजी</string>
+    <string name="ac">वातानुकूलित</string>
+    <string name="frequency">हर %1$d मिनट</string>
+    <string name="first_bus">पहली: %1$s</string>
+    <string name="last_bus">अंतिम: %1$s</string>
+
+    <string name="no_internet">इंटरनेट कनेक्शन नहीं है</string>
+    <string name="request_timed_out">अनुरोध का समय समाप्त हो गया</string>
+    <string name="try_again">पुनः प्रयास करें</string>
+
+    <string name="select_city">शहर चुनें</string>
+    <string name="search_cities">शहर खोजें…</string>
+    <string name="popular_cities">लोकप्रिय शहर</string>
+    <string name="all_cities">सभी शहर</string>
+</resources>
